@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px;
+    background-color: red;
+    color: aliceblue;
+    padding: 10px;
+
+}
+
+select
+{
+    margin: 30px;
+    background-color: red;
+    color: aliceblue;
+    padding: 10px;
+    outline: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button
+{
+    margin: 5px;
+    background-color: red;
+    color: aliceblue;
+    padding: 10px;
+    outline: none;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+button:hover
+{
+    background-color: aquamarine;
+}
